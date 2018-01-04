@@ -1,0 +1,9 @@
+2018-01-04 14:15:17,025 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.bigdata:thread:0.0.1-SNAPSHOT @ /Users/zhangyong/Documents/data/java/Thread/thread/pom.xml.
+2018-01-04 14:15:17,476 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thread/src/main/java
+2018-01-04 14:15:17,478 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thread/src/main/resources
+2018-01-04 14:15:17,478 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /thread/src/test/java
+2018-01-04 14:15:17,478 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /thread/src/test/resources
+2018-01-04 14:15:20,903 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-04 14:15:20,909 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-01-04 14:15:20,910 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-01-04 14:15:20,911 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
